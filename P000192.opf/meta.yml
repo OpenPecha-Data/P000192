@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: སྐུ་ཚེ་སྟོད་ཀྱི་རྣམ་ཐར་ཞལ་གསུངས་མ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-01
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: Brilliant Moon:An Oral Account of Dilgo Khyentse’s Early Life
+    bo: སྐུ་ཚེ་སྟོད་ཀྱི་རྣམ་ཐར་ཞལ་གསུངས་མ་བཞུགས་སོ།
+  collection:
+    en: Dilgo Khyentse Series–  Book 1
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༡
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-01
+  category:
+    en: Autobiography
+    bo: རང་རྣམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-01.epub
+  description:
+    en: ''
+    bo: ''
