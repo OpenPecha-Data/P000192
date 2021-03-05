@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000192
+initial_creation_type: ebook
+source_metadata:
   title: སྐུ་ཚེ་སྟོད་ཀྱི་རྣམ་ཐར་ཞལ་གསུངས་མ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-01
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: SHE-DKR-01
 web_metadata:
   title:
     en: Brilliant Moon:An Oral Account of Dilgo Khyentse’s Early Life
